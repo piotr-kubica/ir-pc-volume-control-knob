@@ -3,7 +3,7 @@ IR and PC volume control knob allows to control
 - prev/next/play/volume on your PC
 - tuner/audio-in/on/off/volume of the Denon RCD-M39 amplituner using IR
 
-The goal of this project was to create a volume control know for multiple devices.
+The goal of this project was to create a volume control knob for multiple devices.
 
 [<img src="/img/knob-front.png" width="500"/>](/img/knob-front.png)
 
