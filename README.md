@@ -11,7 +11,7 @@ The goal of this project was to create a volume control knob for multiple device
 - SparkFun Pro Micro 5v/16Mhz 
 - rotary encoder
 - ssd1306 oled display (i2c version)
-- IR led, transistor and resitor (used in the IR transmitter)
+- IR led, transistor and resistor (used in the IR transmitter)
 - 3D printed case (see stl and 3mf files)
 - M3 bolts, 2x tactile buttons, JST connector and socket, wires, proto board, USB cable, rubber pad (so the knob does not slip on flat surface)
 
